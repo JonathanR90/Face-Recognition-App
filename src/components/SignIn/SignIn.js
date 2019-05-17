@@ -34,7 +34,7 @@ class SignIn extends React.Component {
             } else {
                 alert('Wrong username and password!');
             }
-        });
+        })
     }
     
     render() {  
